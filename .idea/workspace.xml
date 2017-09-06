@@ -88,11 +88,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AlmostIncreasingSequence.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AlmostIncreasingSequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/AlmostIncreasingSequence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixElementsSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/MatrixElementsSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -125,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/ShapeArea.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/MakeArrayConsecutive2.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/AlmostIncreasingSequence.java" />
+        <option value="$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/MatrixElementsSum.java" />
       </list>
     </option>
   </component>
@@ -316,12 +327,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504713419024</updated>
-      <workItem from="1504713425205" duration="1060000" />
+      <workItem from="1504713425205" duration="1167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1060000" />
+    <option name="totallyTimeSpent" value="1167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -432,6 +443,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/MatrixElementsSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="25" />
           <folding />
         </state>
       </provider>

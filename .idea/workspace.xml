@@ -22,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Add.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Add.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/TheJourneyBegins/Add.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -30,6 +30,19 @@
               <folding>
                 <element signature="e#99#100#0" expanded="true" />
                 <element signature="e#135#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CenturyFromYear.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/TheJourneyBegins/CenturyFromYear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="23" />
+              <folding>
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,6 +69,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Arcade/Intro/TheJourneyBegins/Add.java" />
+        <option value="$PROJECT_DIR$/src/Arcade/Intro/TheJourneyBegins/CenturyFromYear.java" />
       </list>
     </option>
   </component>
@@ -69,6 +83,9 @@
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
@@ -109,6 +126,11 @@
             <path>
               <item name="codefights" type="58d84e3e:PackageViewProjectNode" />
               <item name="codefights" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="codefights" type="58d84e3e:PackageViewProjectNode" />
+              <item name="codefights" type="616d4139:PackageViewModuleNode" />
+              <item name="Arcade.Intro.TheJourneyBegins" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -226,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504713419024</updated>
-      <workItem from="1504713425205" duration="343000" />
+      <workItem from="1504713425205" duration="484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="343000" />
+    <option name="totallyTimeSpent" value="484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="745" extended-state="0" />
@@ -291,6 +313,17 @@
           <folding>
             <element signature="e#99#100#0" expanded="true" />
             <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/TheJourneyBegins/CenturyFromYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
           </folding>
         </state>
       </provider>

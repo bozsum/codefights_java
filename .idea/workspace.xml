@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayChange.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ExploringTheWaters/ArrayChange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PalindromeRearranging.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ExploringTheWaters/PalindromeRearranging.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,11 +98,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EvenDigitsOnly.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EvenDigitsOnly.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/EvenDigitsOnly.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VariableName.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/VariableName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -164,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/Minesweeper.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/ArrayReplace.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/EvenDigitsOnly.java" />
+        <option value="$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/VariableName.java" />
       </list>
     </option>
   </component>
@@ -344,7 +345,7 @@
       <workItem from="1504713425205" duration="1167000" />
       <workItem from="1504751113437" duration="16000" />
       <workItem from="1504759642612" duration="2168000" />
-      <workItem from="1504793714693" duration="307000" />
+      <workItem from="1504793714693" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="No 9  :  allLongestStrings">
       <created>1504759806097</created>
@@ -367,11 +368,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504793957209</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="No 26  :  evenDigitsOnly">
+      <created>1504794043965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504794043965</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3661000" />
+    <option name="totallyTimeSpent" value="3775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="328" y="108" width="939" height="578" extended-state="0" />
@@ -415,20 +423,14 @@
     <MESSAGE value="No 9  :  allLongestStrings" />
     <MESSAGE value="No 10  :  commonCharacterCount" />
     <MESSAGE value="No 25  :  arrayReplace" />
-    <option name="LAST_COMMIT_MESSAGE" value="No 25  :  arrayReplace" />
+    <MESSAGE value="No 26  :  evenDigitsOnly" />
+    <option name="LAST_COMMIT_MESSAGE" value="No 26  :  evenDigitsOnly" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/TheJourneyBegins/CheckPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/AdjacentElementsProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -793,6 +795,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/VariableName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>

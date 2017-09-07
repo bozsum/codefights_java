@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IsIPv4Address.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/IsIPv4Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AvoidObstacles.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/AvoidObstacles.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CircleOfNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CircleOfNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ThroughTheFog/CircleOfNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepositProfit.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ThroughTheFog/DepositProfit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -164,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/AlphabeticShift.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/ChessBoardCellColor.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/ThroughTheFog/CircleOfNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Arcade/Intro/ThroughTheFog/DepositProfit.java" />
       </list>
     </option>
   </component>
@@ -215,6 +216,13 @@
               <item name="codefights" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codefights" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codefights" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro" type="462c0819:PsiDirectoryNode" />
+              <item name="ThroughTheFog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -337,7 +345,7 @@
       <workItem from="1504713425205" duration="1167000" />
       <workItem from="1504751113437" duration="16000" />
       <workItem from="1504759642612" duration="2168000" />
-      <workItem from="1504793714693" duration="741000" />
+      <workItem from="1504793714693" duration="897000" />
     </task>
     <task id="LOCAL-00001" summary="No 9  :  allLongestStrings">
       <created>1504759806097</created>
@@ -388,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504794338542</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="No 30  :  circleOfNumbers">
+      <created>1504794477785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1504794477785</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4095000" />
+    <option name="totallyTimeSpent" value="4251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="328" y="108" width="939" height="578" extended-state="0" />
@@ -440,20 +455,14 @@
     <MESSAGE value="No 27  :  variableName" />
     <MESSAGE value="No 28  :  alphabeticShift" />
     <MESSAGE value="No 29  :  chessBoardCellColor" />
-    <option name="LAST_COMMIT_MESSAGE" value="No 29  :  chessBoardCellColor" />
+    <MESSAGE value="No 30  :  circleOfNumbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="No 30  :  circleOfNumbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/AlmostIncreasingSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/MatrixElementsSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -822,6 +831,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ThroughTheFog/DepositProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>

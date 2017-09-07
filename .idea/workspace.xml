@@ -14,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayMaximalAdjacentDifference.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/ArrayMaximalAdjacentDifference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IsIPv4Address.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/IsIPv4Address.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/EvenDigitsOnly.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="26" />
+              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -100,17 +88,27 @@
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/AlphabeticShift.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
+              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChessBoardCellColor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChessBoardCellColor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/ChessBoardCellColor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="43">
-              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="31" />
+              <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CircleOfNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ThroughTheFog/CircleOfNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -165,6 +163,7 @@
         <option value="$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/VariableName.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/AlphabeticShift.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/ChessBoardCellColor.java" />
+        <option value="$PROJECT_DIR$/src/Arcade/Intro/ThroughTheFog/CircleOfNumbers.java" />
       </list>
     </option>
   </component>
@@ -216,13 +215,6 @@
               <item name="codefights" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Intro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codefights" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codefights" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Intro" type="462c0819:PsiDirectoryNode" />
-              <item name="RainsOfReason" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,7 +337,7 @@
       <workItem from="1504713425205" duration="1167000" />
       <workItem from="1504751113437" duration="16000" />
       <workItem from="1504759642612" duration="2168000" />
-      <workItem from="1504793714693" duration="603000" />
+      <workItem from="1504793714693" duration="741000" />
     </task>
     <task id="LOCAL-00001" summary="No 9  :  allLongestStrings">
       <created>1504759806097</created>
@@ -389,11 +381,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504794266164</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="No 29  :  chessBoardCellColor">
+      <created>1504794338542</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1504794338542</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3957000" />
+    <option name="totallyTimeSpent" value="4095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="328" y="108" width="939" height="578" extended-state="0" />
@@ -440,20 +439,14 @@
     <MESSAGE value="No 26  :  evenDigitsOnly" />
     <MESSAGE value="No 27  :  variableName" />
     <MESSAGE value="No 28  :  alphabeticShift" />
-    <option name="LAST_COMMIT_MESSAGE" value="No 28  :  alphabeticShift" />
+    <MESSAGE value="No 29  :  chessBoardCellColor" />
+    <option name="LAST_COMMIT_MESSAGE" value="No 29  :  chessBoardCellColor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/MakeArrayConsecutive2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/EdgeOfOcean/AlmostIncreasingSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -796,7 +789,7 @@
     <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/EvenDigitsOnly.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="26" />
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -812,7 +805,7 @@
     <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/AlphabeticShift.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -820,7 +813,15 @@
     <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/RainsOfReason/ChessBoardCellColor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="31" />
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ThroughTheFog/CircleOfNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>

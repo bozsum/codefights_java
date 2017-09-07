@@ -12,16 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AlternatingSums.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ExploringTheWaters/AlternatingSums.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AddBorder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ExploringTheWaters/AddBorder.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoxBlur.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BoxBlur.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/BoxBlur.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Minesweeper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/Minesweeper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -162,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/IsIPv4Address.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/AvoidObstacles.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/BoxBlur.java" />
+        <option value="$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/Minesweeper.java" />
       </list>
     </option>
   </component>
@@ -341,7 +342,7 @@
       <updated>1504713419024</updated>
       <workItem from="1504713425205" duration="1167000" />
       <workItem from="1504751113437" duration="16000" />
-      <workItem from="1504759642612" duration="2106000" />
+      <workItem from="1504759642612" duration="2151000" />
     </task>
     <task id="LOCAL-00001" summary="No 9  :  allLongestStrings">
       <created>1504759806097</created>
@@ -361,7 +362,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3292000" />
+    <option name="totallyTimeSpent" value="3337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="173" y="178" width="939" height="578" extended-state="0" />
@@ -411,14 +412,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/codefights.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/TheJourneyBegins/Add.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -846,6 +839,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/Minesweeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>

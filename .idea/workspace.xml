@@ -12,16 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SortByHeight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/SmoothSailing/SortByHeight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ReverseParentheses.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/SmoothSailing/ReverseParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsIPv4Address.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IsIPv4Address.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/IsIPv4Address.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AvoidObstacles.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/AvoidObstacles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -160,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/AreEquallyStrong.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/ArrayMaximalAdjacentDifference.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/IsIPv4Address.java" />
+        <option value="$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/AvoidObstacles.java" />
       </list>
     </option>
   </component>
@@ -339,7 +340,7 @@
       <updated>1504713419024</updated>
       <workItem from="1504713425205" duration="1167000" />
       <workItem from="1504751113437" duration="16000" />
-      <workItem from="1504759642612" duration="1953000" />
+      <workItem from="1504759642612" duration="2041000" />
     </task>
     <task id="LOCAL-00001" summary="No 9  :  allLongestStrings">
       <created>1504759806097</created>
@@ -359,7 +360,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3139000" />
+    <option name="totallyTimeSpent" value="3227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="173" y="178" width="939" height="578" extended-state="0" />
@@ -828,6 +829,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/IslandOfKnowledge/AvoidObstacles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="22" />
           <folding />
         </state>
       </provider>

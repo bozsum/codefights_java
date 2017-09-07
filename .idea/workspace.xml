@@ -72,12 +72,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AlternatingSums.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AlternatingSums.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ExploringTheWaters/AlternatingSums.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="25" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddBorder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ExploringTheWaters/AddBorder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/Arcade/Intro/SmoothSailing/SortByHeight.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/SmoothSailing/ReverseParentheses.java" />
         <option value="$PROJECT_DIR$/src/Arcade/Intro/ExploringTheWaters/AlternatingSums.java" />
+        <option value="$PROJECT_DIR$/src/Arcade/Intro/ExploringTheWaters/AddBorder.java" />
       </list>
     </option>
   </component>
@@ -170,6 +183,13 @@
               <item name="codefights" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codefights" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codefights" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro" type="462c0819:PsiDirectoryNode" />
+              <item name="ExploringTheWaters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codefights" type="b2602c69:ProjectViewProjectNode" />
@@ -295,7 +315,7 @@
       <updated>1504713419024</updated>
       <workItem from="1504713425205" duration="1167000" />
       <workItem from="1504751113437" duration="16000" />
-      <workItem from="1504759642612" duration="1325000" />
+      <workItem from="1504759642612" duration="1383000" />
     </task>
     <task id="LOCAL-00001" summary="No 9  :  allLongestStrings">
       <created>1504759806097</created>
@@ -315,7 +335,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2511000" />
+    <option name="totallyTimeSpent" value="2569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="173" y="178" width="939" height="578" extended-state="0" />
@@ -722,6 +742,16 @@
         <state relative-caret-position="68">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arcade/Intro/ExploringTheWaters/AddBorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
